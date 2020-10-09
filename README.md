@@ -4,6 +4,8 @@
 
 Generated from [express react cookiecutter template here](https://github.com/ardydedase/cookiecutter-express-react-ssr).
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
 My reference web app.
 
 ## Run locally
