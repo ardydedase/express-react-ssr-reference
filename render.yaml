@@ -6,5 +6,5 @@ services:
     dockerContext: .
     repo: https://github.com/ardydedase/express-react-ssr-reference.git
     plan: starter
-    branch: master
+    branch: main
     healthCheckPath: /healthcheck
