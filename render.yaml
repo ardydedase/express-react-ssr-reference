@@ -1,0 +1,11 @@
+services:
+- type: web
+  name: express-react-ssr-reference
+  env: docker
+  dockerfilePath: ./Dockerfile.prod # optional
+  dockerContext: .
+  repo: https://github.com/ardydedase/express-react-ssr-reference.git
+  plan: starter
+  branch: master
+  healthCheckPath: /healthcheck
+  
